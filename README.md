@@ -1,4 +1,4 @@
 # firstdemo
 this is my first repository
-<hr>
+<br>
 Author - Nikhil Guleria
